@@ -1,0 +1,45 @@
+/* Custom CSS for sticky navbar */
+.navbar {
+    background-color: teal;
+}
+
+.navbar-brand {
+    color: #fff;
+    /* font-size: 5.5rem; */
+    font-size: 200%;
+    margin-right: 50px; /* Adjust as needed */
+}
+
+
+.navbar-nav {
+    margin-left: auto;
+}
+
+.nav-item {
+    padding: 0 15px; 
+}
+
+.nav-link {
+    color: #fff;
+}
+
+.nav-link:hover {
+    color: #f8f9fa;
+}
+
+/* section one */
+.sectionone{
+    background-color: teal;
+    
+    
+}
+/* about us */
+.aboutus1{ 
+     padding:60px; 
+ }
+    
+/* slide image */
+ .custom-column {
+    margin-right: 70px;
+ }
+ 
